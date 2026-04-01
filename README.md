@@ -66,10 +66,5 @@ Can be used to auto-generate poems in different styles or themes, and compile th
 - 🧠 Research in NLP & Creativity
 Serves as a baseline for studying the intersection of artificial intelligence and human creativity.
 
----
-
-## 🛑 Disclaimer
-
-This project is intended for educational and creative exploration of transformer-based text generation. The generated content is fictional and may reflect the nature of the training data.
 
 
